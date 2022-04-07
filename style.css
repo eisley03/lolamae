@@ -1,0 +1,14 @@
+/* Modify the background color of navbar */
+.navbar-custom {
+    background-color: #BB8080;
+}
+body {
+    font-family: 'Italiana', serif;
+}
+/*For Footer*/
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
