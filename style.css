@@ -3,7 +3,7 @@
     background-color: #BB8080;
 }
 body {
-    font-family: 'Italiana', serif;
+  font-family: 'Yeseva One', cursive;
 }
 /*For Footer*/
 .center {
@@ -31,6 +31,9 @@ body {
     margin: auto; 
     display: block;
     }
+  .circle-round-picture {
+    background-color: #622E2E;
+  }
 /*For Navbar*/
 .menu {
     background: #BB8080;
@@ -41,4 +44,11 @@ body {
 .homepage-text {
     font-size: 40px;
     text-align: center;
+}
+
+/*For about page heading*/
+.become-lola {
+  background-color: #622E2E;
+  text-align:center;
+  color:white;
 }
