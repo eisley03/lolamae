@@ -45,10 +45,29 @@ body {
     font-size: 40px;
     text-align: center;
 }
+.social-text {
+  text-align: center;
+}
+.home-links {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color:black;
+}
+.pink {
+  background-color: #E5A2A2;
+}
+.dark-pink {
+  background-color: #622E2E;
+}
 
 /*For about page heading*/
 .become-lola {
   background-color: #622E2E;
   text-align:center;
   color:white;
+}
+.image-owner {
+  background-color: #622E2E;
 }
