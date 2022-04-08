@@ -1,39 +1,41 @@
 /* Modify the background color of navbar */
 .navbar-custom {
-    background-color: #BB8080;
+  background-color: #BB8080;
 }
 body {
   font-family: 'Yeseva One', cursive;
 }
 /*For Footer*/
 .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-  .footer {
-    background: #BB8080;
-    margin:0;
-    padding: 75px;
-    font-size: larger;
-    color:white;
-  }
-  .footer-text {
-      font-size: 20px;
-      color:white;
-  }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.footer {
+  background: #BB8080;
+  margin:0;
+  padding: 75px;
+  font-size: larger;
+  color:white;
+}
+.footer-text {
+  font-size: 20px;
+  color:white;
+}
   /*For Logo in carousel*/
-  .carousel-item img{
-    width: auto;
-    height: 600px;
-    max-height: 600px;
-    margin: auto; 
-    display: block;
-    }
-  .circle-round-picture {
-    background-color: #622E2E;
+.carousel-item img{
+  width: auto;
+  height: 600px;
+  max-height: 600px;
+  margin: auto; 
+  display: block;
   }
+.circle-round-picture {
+  border: 30px solid #622E2E;
+  background-color: #622E2E;
+  padding-top: 10px;
+}
 /*For Navbar*/
 .menu {
     background: #BB8080;
@@ -59,15 +61,50 @@ a {
   background-color: #E5A2A2;
 }
 .dark-pink {
-  background-color: #622E2E;
+  background-color: #BB8080;
+  color:white;
 }
 
 /*For about page heading*/
 .become-lola {
-  background-color: #622E2E;
+  background-color: #BB8080;
   text-align:center;
   color:white;
 }
-.image-owner {
-  background-color: #622E2E;
+.about-socials {
+  background-color: #BB8080;
+  text-align: center;
+  color: white;
 }
+.about-contact {
+  background-color: #846161;
+  text-align: center;
+  color: white;
+}
+
+/*About page styles*/
+.social-media {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.image-owner {
+  border: 10px solid #622E2E;
+}
+
+/*For Images*/
+.dress{
+padding: 50px;
+}
+.top{
+  padding:50px;
+}
+.bottom{
+  padding: 50px;
+}
+
+/*For Links on Homepage (fixing color)*/
+a:hover.products{
+color: #ffbfb8;
+}
+
