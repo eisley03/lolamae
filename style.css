@@ -26,8 +26,7 @@ body {
   /*For Logo in carousel*/
 .carousel-item img{
   width: auto;
-  height: 600px;
-  max-height: 600px;
+  height: 700px;
   margin: auto; 
   display: block;
   }
@@ -107,4 +106,23 @@ padding: 50px;
 a:hover.products{
 color: #ffbfb8;
 }
+/*Fixing Socials Icons*/
+svg.bi-facebook{
+  height:200px
+}
+
+@media only screen and (max-width: 770px) {
+  .carousel-item img {
+    height: 350px;
+  }
+}
+@media only screen and (max-width: 450px) {
+  .carousel-item img {
+    height: 220px;
+  }
+
+  .bi-facebook{
+    width:100%
+  }
+
 
