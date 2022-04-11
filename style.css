@@ -106,10 +106,6 @@ padding: 50px;
 a:hover.products{
 color: #ffbfb8;
 }
-/*Fixing Socials Icons*/
-svg.bi-facebook{
-  height:200px
-}
 
 @media only screen and (max-width: 770px) {
   .carousel-item img {
@@ -121,8 +117,6 @@ svg.bi-facebook{
     height: 220px;
   }
 
-  .bi-facebook{
-    width:100%
-  }
+  
 
 
