@@ -35,6 +35,10 @@ body {
   background-color: #622E2E;
   padding-top: 10px;
 }
+/*Update Page*/
+.update-row img{
+  width: 100%
+}
 /*For Navbar*/
 .menu {
     background: #BB8080;
