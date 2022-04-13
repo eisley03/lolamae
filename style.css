@@ -97,13 +97,16 @@ a {
 
 /*For Images*/
 .dress{
-padding: 50px;
+padding: 10px;
+border: 10px solid #9D4D4D;
 }
 .top{
-  padding:50px;
+  padding:10px;
+  border: 10px solid #9D4D4D;
 }
 .bottom{
-  padding: 50px;
+  padding: 10px;
+  border: 10px solid #9D4D4D;
 }
 
 /*For Links on Homepage (fixing color)*/
@@ -122,5 +125,4 @@ color: #ffbfb8;
   }
 
   
-
 
